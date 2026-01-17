@@ -113,7 +113,7 @@ export default function Home() {
                 pour une short-list qualifiée et un closing sécurisé.
               </p>
               <p className="text-sm text-zinc-600">
-                Pour les dirigeants, DRH et RRH qui recrutent en Île-de-France.
+                 Pour les dirigeants, DRH et RRH qui recrutent partout en France.
               </p>
               <div className="flex flex-col gap-3 sm:flex-row">
                 <a
@@ -196,9 +196,9 @@ export default function Home() {
                 et un haut niveau de confidentialité.
               </p>
               <p className="leading-7 text-zinc-700">
-                Zone d’intervention : <strong>Île-de-France</strong>. La méthode
-                repose sur l’écoute, la précision du ciblage, et une évaluation
-                structurée pour sécuriser vos décisions.
+                Zone d’intervention : <strong>partout en France</strong>. La
+                méthode repose sur l’écoute, la précision du ciblage, et une
+                évaluation structurée pour sécuriser vos décisions.
               </p>
             </div>
             <div className="rounded-2xl border border-zinc-200 bg-white p-8">
