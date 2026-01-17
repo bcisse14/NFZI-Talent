@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NFZI Talent | Consultant en recrutement freelance en Île-de-France",
+  title: "NFZI Talent | Consultant en recrutement freelance partout en France",
   description:
     "NFZI Talent accompagne les entreprises dans leurs recrutements stratégiques : approche directe, sourcing confidentiel, évaluation et short-list qualifiée.",
   applicationName: "NFZI Talent",
@@ -24,10 +24,10 @@ export const metadata: Metadata = {
     "évaluation des candidats",
     "short-list qualifiée",
     "recrutement durable",
-    "Île-de-France",
+    "France",
   ],
   openGraph: {
-    title: "NFZI Talent | Recrutement stratégique en Île-de-France",
+    title: "NFZI Talent | Recrutement stratégique partout en France",
     description:
       "Accompagnement premium pour vos recrutements stratégiques : sourcing discret, approche directe, évaluation et short-list qualifiée.",
     type: "website",

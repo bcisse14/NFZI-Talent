@@ -1,4 +1,4 @@
-Site vitrine one page (français) pour **NFZI Talent** — consultant en recrutement freelance (Île-de-France).
+Site vitrine one page (français) pour **NFZI Talent** — consultant en recrutement freelance (partout en France).
 
 ## Getting Started
 

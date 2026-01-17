@@ -101,7 +101,7 @@ export default function Home() {
           <div className="mx-auto grid max-w-6xl gap-12 px-6 py-16 md:grid-cols-2 md:items-center md:py-24 lg:px-8">
             <div className="space-y-6">
               <p className="text-xs font-semibold uppercase tracking-[0.22em] text-zinc-600">
-                Consultant en recrutement freelance • Île-de-France
+                Consultant en recrutement freelance • partout en France
               </p>
               <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
                 Recrutements stratégiques, approche humaine, résultats durables.
@@ -214,7 +214,7 @@ export default function Home() {
                 </div>
                 <div>
                   <dt className="font-semibold text-zinc-900">Zone</dt>
-                  <dd className="mt-1 text-zinc-700">Île-de-France</dd>
+                  <dd className="mt-1 text-zinc-700">Partout en France</dd>
                 </div>
                 <div>
                   <dt className="font-semibold text-zinc-900">Engagement</dt>
@@ -458,7 +458,7 @@ export default function Home() {
                 NFZI Talent
               </p>
               <p className="text-sm text-zinc-600">
-                Consultant en recrutement freelance — Île-de-France
+                Consultant en recrutement freelance — partout en France
               </p>
             </div>
 
